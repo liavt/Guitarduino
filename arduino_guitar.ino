@@ -1,9 +1,4 @@
-/*
-  Blink
-  Turns on an LED on for one second, then off for one second, repeatedly.
- 
-  This example code is in the public domain.
- */
+
  
 const int buttons[4] = {2,3,4,5};
 const int octaves[2] = {6,7};
